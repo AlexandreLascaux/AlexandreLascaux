@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there ! 👋
+
+[![AlexandreLascaux's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrelascaux&show_icons=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelascaux&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlexandreLascaux/AlexandreLascaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
