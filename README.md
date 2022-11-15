@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=AlexandreLascaux&theme=onedark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreLascaux&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreLascaux&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=AlexandreLascaux&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlexandreLascaux&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
